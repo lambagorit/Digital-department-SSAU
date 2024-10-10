@@ -1,1 +1,1 @@
-This is first laboratory work
+Лабораторная работа 1 цифровая кафедра
